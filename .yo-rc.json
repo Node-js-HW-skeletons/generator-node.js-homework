@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Stanislav Tarasenko",
+      "authorEmail": "stanislaw.tarasenko@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
